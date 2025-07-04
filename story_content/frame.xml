@@ -14,7 +14,7 @@
         <options>
           <option name="title_enabled" value="true">
             <options>
-              <option name="title_text" value="Algoritma &amp;amp; Pemrograman Kelas X" />
+              <option name="title_text" value="Media Interaktif Algoritma &amp;amp; Pemrograman Kelas X" />
             </options>
           </option>
           <option name="logo_enabled" value="false">
@@ -1208,7 +1208,15 @@
   </fonts>
   <sounds enabled="true" />
   <nav_data>
-    <outline />
+    <outline>
+      <links>
+        <slidelink slideid="_player.6YHOhWpgYDq" displaytext="Halaman Mulai" expand="true" type="slide">
+          <links>
+            <slidelink slideid="_player.6YHOhWpgYDq.5jUPWF83f0U" displaytext="Halaman Utama" expand="false" type="slide" />
+          </links>
+        </slidelink>
+      </links>
+    </outline>
   </nav_data>
   <resource_data description="" />
   <transcript_data />
